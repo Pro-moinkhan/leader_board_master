@@ -88,7 +88,7 @@ main{
     display: flex;
 }
 .thumbnail img{
-    width: 150px;
+    width: 155px;
     margin-right: 10px;
 }
 .single_player, .blog{
